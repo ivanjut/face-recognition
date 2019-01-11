@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import Particles from 'react-particles-js';
 import Clarifai from 'clarifai';
-import NavBar from './components/navbar/NavBar';
+// import NavBar from './components/navbar/NavBar';
 import Logo from './components/logo/Logo';
 import ImageLinkForm from './components/imageLinkForm/ImageLinkForm';
 import FaceRecognition from './components/faceRecognition/FaceRecognition';
