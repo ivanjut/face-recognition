@@ -1,12 +1,15 @@
 .container {
     background-color: darkgrey;
     padding: 1%;
+    margin: 1%;
+    border-radius: 2%;
 }
 
 .predictedPerson {
     background-color: #04C8DE;
     margin: 1%;
     padding: 1%;
+    border-radius: 2%;
 }
 
 .title {
